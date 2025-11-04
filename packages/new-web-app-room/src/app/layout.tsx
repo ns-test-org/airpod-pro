@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Build anything from a chat",
-  description: "Turn chats into apps. Prompt. Ship. Repeat.",
+  title: "AirPods Pro - Magical. Immersive. Personal.",
+  description: "Experience industry-leading Active Noise Cancellation, Spatial Audio, and all-day battery life with AirPods Pro.",
 };
 
 export default function RootLayout({
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
